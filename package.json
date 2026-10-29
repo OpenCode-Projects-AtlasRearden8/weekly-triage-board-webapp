@@ -1,0 +1,14 @@
+{
+  "name": "weekly-triage-board",
+  "version": "1.0.0",
+  "description": "ADHD-friendly offline weekly triage board: brain dump, do/drop/delegate/someday columns, energy + time tags, pick-your-three, and a gentle Sunday reset. Single-file, localStorage only.",
+  "main": "index.html",
+  "scripts": {
+    "test": "node tests.mjs && node --test"
+  },
+  "license": "MIT",
+  "author": "Asdale Dynamics, LLC",
+  "devDependencies": {
+    "jsdom": "^29.0.0"
+  }
+}
